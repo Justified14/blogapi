@@ -26,3 +26,9 @@ error handing
 CRUD operation for blog 
 1. schema connection 
 2. crud
+
+added things
+//allow update to user information
+handling errors for job schema
+
+//commiting to github
